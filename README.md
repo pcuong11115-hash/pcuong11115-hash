@@ -1,79 +1,85 @@
+![Sakura banner](assets/banner.svg)
+
 <div align="center">
 
-# 🤖 Hi, I'm Dương Phú Cường
+# 🌸 Dương Phú Cường 🌸
 
-### Android Developer
+### ⛩️ アンドロイド開発者 — Android Developer ⛩️
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3DDC84&center=true&vCenter=true&width=620&lines=Android+Developer;Kotlin+%E2%80%A2+Jetpack+Compose;Building+clean%2C+fast+Android+apps" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C1272D&center=true&vCenter=true&width=640&lines=Android+Developer;Kotlin+%E2%80%A2+Jetpack+Compose;Simple+%E2%80%A2+Beautiful+%E2%80%A2+Fast" alt="Typing animation" />
 
-<br/>
+> 桜のように、シンプルに、美しく。
+>
+> *Like sakura — simple, beautiful, and made with care.*
 
-> I build Android apps that feel fast, look clean, and are easy to maintain.
+🌸 ─── ⛩️ ─── 🌸
 
 </div>
 
----
+## 🌸 ようこそ — Welcome
 
-## 👋 About Me
+こんにちは！ I'm **Dương Phú Cường**, an Android developer.
 
-I'm an **Android Developer** focused on building real, usable Android apps — from the first screen to a polished, stable release.
+I believe a great Android app is like a Japanese garden: nothing extra, everything in its place, and every detail quietly beautiful. I build apps that are fast, clean, and pleasant to use every day.
 
-What I care about most:
+**My philosophy**
 
-- 📱 **Great mobile UX** — smooth, intuitive, and native to Android
-- 🧩 **Clean code** — readable, testable, and easy to grow
-- ⚡ **Performance** — fast startup, smooth scrolling, no wasted work
-- 🎨 **Modern Android UI** — Jetpack Compose and Material 3
+|  |  |
+|---|---|
+| 🧘 **Simple** — シンプル | Clear screens, clear code, no clutter |
+| 🎨 **Beautiful** — 美しい | Modern Material 3 design, polished UI |
+| ⚡ **Fast** — 速い | Smooth, responsive, and reliable |
+| 🧩 **Clean** — きれい | MVVM, readable code, easy to maintain |
 
----
+🌸 ─── ⛩️ ─── 🌸
 
-## 🛠️ Tech Stack
+## 🗾 技術スタック — Tech Stack
 
-### Languages
+### 💻 言語 — Languages
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Android UI
+### 📱 UI — インターフェース
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/XML_Layouts-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material_3-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-C1272D?style=for-the-badge&logo=materialdesign&logoColor=white)
 
-### Architecture & Data
+### 🏯 アーキテクチャ & データ — Architecture & Data
 
 ![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools
+### 🛠️ ツール — Tools
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+🌸 ─── ⛩️ ─── 🌸
 
-## 🎯 Currently Focused On
+## 🎯 今、取り組んでいること — Current Focus
 
-- Building Android apps with **Kotlin + Jetpack Compose**
-- Applying **MVVM and clean architecture** in real projects
-- Working with **REST APIs, Room, and local data**
-- Improving app **performance, UI polish, and stability**
+- 📱 Building Android apps with **Kotlin + Jetpack Compose**
+- 🏯 Applying **MVVM and clean architecture** in real projects
+- 🌐 Connecting apps to **REST APIs**, with **Room** for local data
+- ✨ Polishing UI, performance, and stability — the details that matter
 
----
+🌸 ─── ⛩️ ─── 🌸
 
-## 🚀 Projects
+## 🚀 プロジェクト — Projects
 
-I'm curating my Android projects here — this section will be updated as projects are published, with real apps and real code only.
+🌱 My Android projects are being curated here. This section will be updated with real apps and real code only — no placeholders pretending to be finished work.
 
-> 💡 Have an Android idea or want to collaborate? Open an issue on this profile repo.
+> 💡 Want to collaborate on an Android project? Open an issue on this profile repo.
 
----
+🌸 ─── ⛩️ ─── 🌸
 
-## 📊 GitHub Stats
+## 📊 GitHub 統計 — GitHub Stats
 
 <div align="center">
 
@@ -82,10 +88,13 @@ I'm curating my Android projects here — this section will be updated as projec
 
 </div>
 
----
+🌸 ─── ⛩️ ─── 🌸
 
 <div align="center">
 
-### 🌱 Building Android, one app at a time.
+### 🌸 一歩ずつ、丁寧に。
+### *Step by step, with care — building Android, one app at a time.*
+
+⛩️
 
 </div>
