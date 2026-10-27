@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ⚡ Hi there, I'm **Nguyen Trung Nghia** 
+  # ⚡ Hi there, I'm **Dương Phú Cường** 
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend-Focused+Fullstack+Developer;DevOps+Enthusiast;Scalable+System+Architect;Problem+Solver" alt="Typing SVG" />
 
