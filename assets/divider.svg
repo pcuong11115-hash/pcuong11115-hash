@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+  <line x1="20" y1="12" x2="1180" y2="12" stroke="#22314A" stroke-width="2"/>
+  <circle r="7" fill="#F59E0B">
+    <animateMotion dur="5s" repeatCount="indefinite" path="M 20 12 L 1180 12 L 20 12"/>
+  </circle>
+  <circle cx="600" cy="12" r="10" fill="none" stroke="#C1272D" stroke-width="3"/>
+</svg>

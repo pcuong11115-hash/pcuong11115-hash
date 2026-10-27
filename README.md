@@ -1,4 +1,4 @@
-![Transformer banner](assets/banner.svg)
+![Transformer banner](assets/transformer-banner.svg)
 
 <div align="center">
 
@@ -8,9 +8,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=680&lines=Transforming+ideas+into+Android+apps;Kotlin+%7C+Jetpack+Compose+%7C+MVVM;Strong.+Modular.+Ready+to+deploy." alt="Typing animation" />
 
+![Profile views](https://komarev.com/ghpvc/?username=pcuong11115-hash&color=F59E0B&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/pcuong11115-hash?label=Followers&style=flat-square&color=C1272D)
+
 </div>
 
----
+![Animated divider](assets/divider.svg)
 
 ## 🔄 TRANSFORMATION SEQUENCE
 
@@ -21,7 +24,7 @@
 | **03** | ⚙️ BUILD | Kotlin + Compose + MVVM, solid architecture |
 | **04** | 🚀 DEPLOY | Tested, polished, and ready to ship |
 
----
+![Animated divider](assets/divider.svg)
 
 <table>
 <tr>
@@ -67,7 +70,7 @@
 </tr>
 </table>
 
----
+![Animated divider](assets/divider.svg)
 
 <table>
 <tr>
@@ -93,7 +96,7 @@ My Android projects are being curated here and will be added with real apps and 
 </tr>
 </table>
 
----
+![Animated divider](assets/divider.svg)
 
 ## 📡 TELEMETRY — GitHub Stats
 
@@ -102,13 +105,22 @@ My Android projects are being curated here and will be added with real apps and 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pcuong11115-hash&show_icons=true&bg_color=0A0E1A&title_color=F59E0B&text_color=E5E7EB&icon_color=C1272D&border_color=22314A" alt="GitHub stats" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcuong11115-hash&layout=compact&bg_color=0A0E1A&title_color=F59E0B&text_color=E5E7EB&border_color=22314A" alt="Top languages" />
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pcuong11115-hash&theme=dark&hide_border=true&background=0A0E1A&ring=F59E0B&fire=C1272D&currStreakLabel=F59E0B" alt="GitHub streak stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pcuong11115-hash&theme=react-dark&bg_color=0A0E1A&color=F59E0B&line=C1272D&point=00E5FF&hide_border=true" alt="GitHub activity graph" />
+
 </div>
 
----
+![Animated divider](assets/divider.svg)
 
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=620&lines=More+than+meets+the+eye.;Transforming+ideas+into+Android+apps." alt="Typing animation" />
+
 ### ⚙️ MORE THAN MEETS THE EYE.
-### *Transforming ideas into Android apps — one build at a time.*
 
 </div>
