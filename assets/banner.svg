@@ -1,43 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FFF1F3"/>
-      <stop offset="55%" stop-color="#FFE4E8"/>
-      <stop offset="100%" stop-color="#FFD6DE"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0E1F1A"/>
+      <stop offset="100%" stop-color="#123524"/>
     </linearGradient>
-    <linearGradient id="fuji" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#7C9BB5"/>
-      <stop offset="100%" stop-color="#4A6B8A"/>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3DDC84"/>
+      <stop offset="100%" stop-color="#00C4B3"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="320" fill="url(#sky)"/>
-  <circle cx="1020" cy="70" r="52" fill="#FF8FA3" opacity="0.85"/>
-  <circle cx="1020" cy="70" r="72" fill="#FF8FA3" opacity="0.18"/>
-  <path d="M 180 320 L 520 90 L 860 320 Z" fill="url(#fuji)"/>
-  <path d="M 430 155 L 520 90 L 610 155 L 565 175 L 520 145 L 475 175 Z" fill="#FFFFFF"/>
-  <path d="M 0 320 Q 300 285 600 305 T 1200 295 L 1200 320 Z" fill="#F7A8B8" opacity="0.45"/>
-  <g fill="#C1272D">
-    <rect x="880" y="150" width="200" height="18" rx="6"/>
-    <rect x="900" y="185" width="160" height="12" rx="5"/>
-    <rect x="920" y="168" width="16" height="130"/>
-    <rect x="1024" y="168" width="16" height="130"/>
-    <rect x="900" y="292" width="160" height="10" rx="4"/>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <circle cx="1020" cy="60" r="150" fill="#3DDC84" opacity="0.12"/>
+  <circle cx="1020" cy="60" r="90" fill="#3DDC84" opacity="0.14"/>
+  <circle cx="120" cy="300" r="120" fill="#00C4B3" opacity="0.10"/>
+  <g opacity="0.9">
+    <rect x="880" y="60" width="220" height="220" rx="36" fill="none" stroke="#3DDC84" stroke-width="3"/>
+    <rect x="905" y="88" width="170" height="140" rx="16" fill="#0B1220" stroke="#2A3B4A" stroke-width="2"/>
+    <rect x="925" y="108" width="110" height="10" rx="5" fill="#3DDC84"/>
+    <rect x="925" y="132" width="130" height="10" rx="5" fill="#5B6470"/>
+    <rect x="925" y="156" width="90" height="10" rx="5" fill="#5B6470"/>
+    <rect x="925" y="186" width="130" height="22" rx="11" fill="url(#glow)"/>
+    <circle cx="990" cy="252" r="8" fill="#3DDC84"/>
   </g>
-  <rect x="968" y="150" width="24" height="22" fill="#1F2937"/>
-  <g fill="#FFB7C5">
-    <circle cx="120" cy="70" r="16"/>
-    <circle cx="170" cy="110" r="12"/>
-    <circle cx="90" cy="140" r="11"/>
-    <circle cx="240" cy="70" r="10"/>
-    <circle cx="700" cy="60" r="13"/>
-    <circle cx="760" cy="110" r="10"/>
-  </g>
-  <g fill="#FF8FA3">
-    <circle cx="145" cy="88" r="7"/>
-    <circle cx="205" cy="95" r="6"/>
-    <circle cx="730" cy="85" r="6"/>
-  </g>
-  <text x="60" y="170" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" fill="#1F2937">Dương Phú Cường</text>
-  <text x="62" y="220" font-family="sans-serif" font-size="30" letter-spacing="4" fill="#C1272D">アンドロイド開発者</text>
-  <text x="62" y="262" font-family="sans-serif" font-size="20" letter-spacing="2" fill="#5B6470">ANDROID DEVELOPER — 桜のように、シンプルに、美しく。</text>
+  <text x="60" y="120" font-family="Georgia, serif" font-size="30" letter-spacing="6" fill="#3DDC84">ANDROID DEVELOPER</text>
+  <text x="58" y="195" font-family="Georgia, serif" font-size="72" font-weight="700" fill="#FFFFFF">Dương Phú Cường</text>
+  <text x="60" y="245" font-family="sans-serif" font-size="26" fill="#CBD5E1">Clean code. Modern UI. Apps people love to use.</text>
+  <rect x="60" y="272" width="180" height="6" rx="3" fill="url(#glow)"/>
+  <rect x="252" y="272" width="36" height="6" rx="3" fill="#334155"/>
 </svg>
