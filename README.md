@@ -1,4 +1,4 @@
-![Transformer banner](assets/transformer-banner.svg)
+![Transformer banner](assets/transformer-banner-v2.svg)
 
 <div align="center">
 
@@ -13,6 +13,8 @@
 
 </div>
 
+![Power core](assets/power-core.svg)
+
 ![Animated divider](assets/divider.svg)
 
 ## 🔄 TRANSFORMATION SEQUENCE
@@ -23,6 +25,12 @@
 | **02** | 🧩 DESIGN | Clean UI, Material 3, intuitive flow |
 | **03** | ⚙️ BUILD | Kotlin + Compose + MVVM, solid architecture |
 | **04** | 🚀 DEPLOY | Tested, polished, and ready to ship |
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&lines=01+IDEA+→+02+DESIGN+→+03+BUILD+→+04+DEPLOY;Every+build+is+a+transformation." alt="Typing animation" />
+
+</div>
 
 ![Animated divider](assets/divider.svg)
 
@@ -69,6 +77,10 @@
 </td>
 </tr>
 </table>
+
+## ⚡ POWER LEVELS
+
+![Animated skill bars](assets/skill-bars.svg)
 
 ![Animated divider](assets/divider.svg)
 
@@ -124,3 +136,5 @@ My Android projects are being curated here and will be added with real apps and 
 ### ⚙️ MORE THAN MEETS THE EYE.
 
 </div>
+
+![Wave footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)

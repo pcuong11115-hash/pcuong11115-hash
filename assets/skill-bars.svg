@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210">
+  <rect width="1200" height="210" fill="#0A0E1A"/>
+  <text x="40" y="35" font-family="monospace" font-size="20" letter-spacing="3" fill="#F59E0B">⚡ POWER LEVELS — FOCUS AREAS</text>
+  <g font-family="sans-serif" font-size="18" fill="#E5E7EB">
+    <text x="40" y="75">Kotlin</text>
+    <rect x="220" y="60" width="900" height="16" rx="8" fill="#1E293B"/>
+    <rect x="220" y="60" width="0" height="16" rx="8" fill="#7F52FF"><animate attributeName="width" values="0;820;820" dur="2.5s" repeatCount="indefinite"/></rect>
+    <text x="40" y="120">Jetpack Compose</text>
+    <rect x="220" y="105" width="900" height="16" rx="8" fill="#1E293B"/>
+    <rect x="220" y="105" width="0" height="16" rx="8" fill="#4285F4"><animate attributeName="width" values="0;780;780" dur="2.5s" begin="0.3s" repeatCount="indefinite"/></rect>
+    <text x="40" y="165">MVVM + Room</text>
+    <rect x="220" y="150" width="900" height="16" rx="8" fill="#1E293B"/>
+    <rect x="220" y="150" width="0" height="16" rx="8" fill="#3DDC84"><animate attributeName="width" values="0;740;740" dur="2.5s" begin="0.6s" repeatCount="indefinite"/></rect>
+    <text x="40" y="200">Android Studio</text>
+    <rect x="220" y="185" width="900" height="16" rx="8" fill="#1E293B"/>
+    <rect x="220" y="185" width="0" height="16" rx="8" fill="#F59E0B"><animate attributeName="width" values="0;700;700" dur="2.5s" begin="0.9s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

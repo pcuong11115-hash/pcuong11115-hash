@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <rect width="1200" height="180" fill="#0A0E1A"/>
+  <g transform-origin="600 90">
+    <circle cx="600" cy="90" r="62" fill="none" stroke="#22314A" stroke-width="3"/>
+    <circle cx="600" cy="90" r="48" fill="none" stroke="#C1272D" stroke-width="4" stroke-dasharray="20 12"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 600 90" to="360 600 90" dur="10s" repeatCount="indefinite"/>
+  </g>
+  <g transform-origin="600 90">
+    <circle cx="600" cy="90" r="34" fill="none" stroke="#00E5FF" stroke-width="3" stroke-dasharray="10 8"/>
+    <animateTransform attributeName="transform" type="rotate" from="360 600 90" to="0 600 90" dur="6s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="600" cy="90" r="18" fill="#F59E0B">
+    <animate attributeName="r" values="18;24;18" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="160" font-family="monospace" font-size="18" letter-spacing="4" text-anchor="middle" fill="#E5E7EB">⚙ MORE THAN MEETS THE EYE ⚙</text>
+</svg>
