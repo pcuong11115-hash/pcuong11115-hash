@@ -1,4 +1,4 @@
-![Transformer banner](assets/transformer-banner-v2.svg)
+[![Transformer banner — click me!](assets/transformer-banner-v2.svg)](https://github.com/pcuong11115-hash)
 
 <div align="center">
 
@@ -12,6 +12,52 @@
 ![GitHub followers](https://img.shields.io/github/followers/pcuong11115-hash?label=Followers&style=flat-square&color=C1272D)
 
 </div>
+
+## 🎮 INTERACTIVE ZONE — Click With Your Mouse!
+
+> GitHub README không chạy JavaScript, nên mình dùng đúng những tương tác mà GitHub cho phép: **bấm chuột để mở / đóng từng panel** bên dưới. Mỗi lần bấm là một hiệu ứng khác nhau!
+
+<details>
+<summary><b>🤖 CLICK TO TRANSFORM — Bấm để Transformer xuất hiện!</b></summary>
+<br/>
+
+![Transformer assembling](assets/transform-appear.svg)
+
+**Transformer assembling…** Các bộ phận bay vào, ráp lại thành robot, rồi lại biến mất và lặp lại!
+
+</details>
+
+<details>
+<summary><b>💥 CLICK TO DETONATE — Bấm để kích nổ bom!</b></summary>
+<br/>
+
+![Explosion](assets/explosion.svg)
+
+**BOOM!** Vòng nổ lan ra, tia lửa văng tứ phía, ngôi sao xoay liên tục!
+
+</details>
+
+<details>
+<summary><b>🔫 CLICK TO FIRE — Bấm để bắn laser!</b></summary>
+<br/>
+
+![Laser fire](assets/laser.svg)
+
+**PEW PEW!** Tia laser bắn từ nòng súng, trúng mục tiêu và nổ tung, lặp lại liên tục!
+
+</details>
+
+<details>
+<summary><b>⚡ CLICK FOR POWER CORE — Bấm để xem lõi năng lượng!</b></summary>
+<br/>
+
+![Power core](assets/power-core.svg)
+
+Lõi năng lượng xoay 2 vòng ngược chiều, tim vàng pulsing liên tục!
+
+</details>
+
+> 🖱️ **Thử ngay:** bấm vào từng tiêu đề trên — đó là tương tác chuột thật trên GitHub, không cần code JavaScript.
 
 ![Power core](assets/power-core.svg)
 
